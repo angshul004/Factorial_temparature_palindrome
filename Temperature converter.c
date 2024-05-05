@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// youtube explanation: https://youtu.be/YYTsM501KdE
 float celsiusToFahrenheit(float celsius) {
     return (celsius * 9 / 5) + 32;
 }
