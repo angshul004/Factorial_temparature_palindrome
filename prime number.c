@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-// Function to check if a number is prime
+// youtube video https://youtu.be/Y80vZcAoPgY
 bool isPrime(int num) {
     if (num <= 1) {
         return false;
