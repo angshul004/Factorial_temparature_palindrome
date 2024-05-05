@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Video explanation: https://youtu.be/5G0Cw0YxnpA
 
 int main() {
   	int number, factorial = 1;
