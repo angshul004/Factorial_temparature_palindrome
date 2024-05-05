@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
+//youtube video link https://youtu.be/41BIbCH7wFo
 
 bool isPalindrome(char *str) {
     int len = strlen(str);
